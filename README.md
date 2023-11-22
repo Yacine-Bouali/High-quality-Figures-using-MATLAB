@@ -1,8 +1,10 @@
 # High-quality-Figures-using-MATLAB
-## 01- Introduction
+### Introduction
 This MATLAB code is designed to facilitate the creation of high-quality figures by providing a structured workflow divided into five main steps. Whether you are visualizing scientific data, engineering results, or any other dataset, this code aims to streamline the process of generating publication-ready figures for paper and Thesis.
 
+For best practice, I suggest running the code by section (Ctrl+Enter) after the necessary modification for your case.
 
+### Steps:  
 
 # High-quality Figures - MATLAB script
 
