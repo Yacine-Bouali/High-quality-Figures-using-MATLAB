@@ -43,3 +43,12 @@ The comparison between the figure plotted without this script and the figure plo
 ## Usage
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 This code is provided for non-commercial use only. If you use or modify this code, you are required to provide attribution to the original author **Yacine Bouali**.
+
+# Created by Yacine Bouali
+Contact me: 
+
+[LinkedIn](https://www.linkedin.com/in/yacinebouali3538/)
+
+[FaceBook](https://web.facebook.com/yacine.bouali.3538)
+
+[ResearchGate](https://www.researchgate.net/profile/Yacine-Bouali)
