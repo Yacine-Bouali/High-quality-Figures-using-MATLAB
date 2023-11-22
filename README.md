@@ -26,7 +26,19 @@ Save your finalized figure in various formats, such as PNG, PDF, or EPS, to acco
 * If you're a LaTeX user, save your figure as 'EPS'; for MS Word users, save it as 'PNG' with a high resolution (e.g., 600).
 * To add arrows and text to the figure, save it as 'EPS', then open the EPS file with Inkscape for necessary modifications, avoiding long and complicated code.
 * Use the same font as your document; for LaTeX users, 'CMU' is suggested in the script.
- 
+
+## Results
+The comparison between the Figure plotted without this script and the Figure plotted with this script is shown bet these Figure
+* This Figure plotted without any modification: 
+![BadFigure](https://github.com/Yacine-Bouali/High-quality-Figures-using-MATLAB/assets/50526427/d4a6bfe5-d87b-4338-bfe3-1a81e9eb04cc)
+
+* This Figure is plotted using the script:
+![high_Quality_Figure](https://github.com/Yacine-Bouali/High-quality-Figures-using-MATLAB/assets/50526427/e433985a-eea1-4bec-8f10-8b11f1d2e10f)
+
+
+
+
+
 ## Usage
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 This code is provided for non-commercial use only. If you use or modify this code, you are required to provide attribution to the original author **Yacine Bouali**.
