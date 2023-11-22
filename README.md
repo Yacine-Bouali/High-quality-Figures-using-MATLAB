@@ -22,7 +22,7 @@ Save your finalized figure in various formats, such as PNG, PDF, or EPS, to acco
 
 ## Tips and Tricks
 * For best practice, I suggest running the code by section (Ctrl+Enter) after making the necessary modifications for your case.
-* A basic understanding of LaTeX symbols and mathematical text is recommended.
+* A basic understanding of LaTeX symbols is recommended.
 * If you're a LaTeX user, save your figure as 'EPS'; for MS Word users, save it as 'PNG' with a high resolution (e.g., 600).
 * To add arrows and text to the figure, save it as 'EPS', then open the EPS file with Inkscape for necessary modifications, avoiding long and complicated code.
 * Use the same font as your document; for LaTeX users, 'CMU' is suggested in the script.
