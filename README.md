@@ -5,7 +5,9 @@ This MATLAB code is designed to facilitate the creation of high-quality figures 
 For best practice, I suggest running the code by section (Ctrl+Enter) after the necessary modification for your case.
 
 # Steps:  
-## 01- Load Data
+## 01- Load Data:
+Effortlessly load your dataset into MATLAB Workspace, allowing for seamless integration with the plotting functions. This step ensures that your data is ready for visualization without the need for extensive pre-processing.
+
 ## 02- Plot Data
 ## 03- Figure Property
 ## 04- Axes Property
