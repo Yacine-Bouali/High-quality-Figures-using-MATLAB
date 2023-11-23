@@ -12,10 +12,10 @@ Effortlessly load your dataset into MATLAB Workspace, allowing for seamless inte
 Utilize powerful plotting functions to create visually appealing and informative figures. The code supports a variety of plot types, enabling you to effectively convey your data's key insights.
 
 ## 03- Figure Property
-Customize the overall appearance of your figure by adjusting properties such as color schemes, fonts, and figure size. This step empowers you to tailor the visual style to match your specific requirements and preferences.
+Customize the overall appearance of your figure by adjusting properties such as  figure size. This step empowers you to tailor the visual style to match your specific requirements and size preferences.
 
 ## 04- Axes Property
-Fine-tune the properties of individual axes to enhance the clarity and interpretability of your figures. Adjust axis labels, ticks, and other parameters to ensure that your audience can easily understand the presented information.
+Fine-tune the properties of individual axes to enhance the clarity and interpretability of your figures. Adjust axis labels, ticks, color schemes, fonts, and other parameters to ensure that your audience can easily understand the presented information.
 
 ## 05- Save Figure
 Save your finalized figure in various formats, such as PNG, PDF, or EPS, to accommodate different publication requirements. This step ensures that your high-quality figure is ready for inclusion in reports, papers, or presentations.
