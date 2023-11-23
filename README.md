@@ -32,11 +32,13 @@ Save your finalized figure in various formats, such as PNG, PDF, or EPS, to acco
 The comparison between the figure plotted without this script and the figure plotted with this script is shown below.
 * Figure plotted without any modification:
   
-![BadFigure](https://github.com/Yacine-Bouali/High-quality-Figures-using-MATLAB/assets/50526427/d4a6bfe5-d87b-4338-bfe3-1a81e9eb04cc)
+![BadFigure](https://github.com/Yacine-Bouali/High-quality-Figures-using-MATLAB/assets/50526427/5f171b5b-c862-4112-a7db-a22cb5bf44f4)
+
 
 * Figure plotted using the script:
 
-![high_Quality_Figure](https://github.com/Yacine-Bouali/High-quality-Figures-using-MATLAB/assets/50526427/e433985a-eea1-4bec-8f10-8b11f1d2e10f)
+![high_Quality_Figure](https://github.com/Yacine-Bouali/High-quality-Figures-using-MATLAB/assets/50526427/f5650252-deaf-4089-bebf-5fc0f6353846)
+
 
 
 
