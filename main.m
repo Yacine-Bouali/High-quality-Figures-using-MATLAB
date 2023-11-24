@@ -52,7 +52,7 @@ fig = gcf; % Get the handle of the current figure
 %set(fig,'Units','centimeters','Position',[3 3 8.5 8])   % Double-Column
 set(fig,'Units','centimeters','Position',[3 3 17.4 8])  % Single-Column
 
-%% 04- Axies Property
+%% 04- Axes Property
 % Customize the axes properties, including font, font size, LaTeX interpreter,
 % and adjust the size and location of the axes.
 ax = gca; % Get the handle of the current axes
