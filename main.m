@@ -82,7 +82,7 @@ set(ax,'YGrid','on');
 set(ax,'GridLineStyle','--');
 
 %% 05- Save Figure
-% Set the filename and save the figure in different formats
+% Set the filename and save the figure in different formats (fig, EPS, PNG)
 fig_name_save='high_Quality_Figure';
 saveas(ax,[fig_name_save,'.fig'])
 exportgraphics(ax, [fig_name_save,'.eps'], 'ContentType', 'vector');
