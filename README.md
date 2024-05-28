@@ -1,4 +1,5 @@
 # High-quality-Figures-using-MATLAB
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Yacine-Bouali/High-quality-Figures-using-MATLAB&file=https://github.com/Yacine-Bouali/High-quality-Figures-using-MATLAB/blob/main/main.m)
 # Introduction
 This MATLAB code is designed to facilitate the creation of high-quality figures by providing a structured workflow divided into five main steps. Whether you are visualizing scientific data, engineering results, or any other dataset, this code aims to streamline the process of generating publication-ready figures for paper and Thesis.
 
@@ -38,6 +39,7 @@ The comparison between the figure plotted without this script and the figure plo
 * Figure plotted using the script:
 
 ![high_Quality_Figure](https://github.com/Yacine-Bouali/High-quality-Figures-using-MATLAB/assets/50526427/f5650252-deaf-4089-bebf-5fc0f6353846)
+
 
 
 
